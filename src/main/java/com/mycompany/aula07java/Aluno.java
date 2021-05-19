@@ -61,7 +61,7 @@ public class Aluno {
         } else if (pesquisa.equals("5")) {
             JOptionPane.showMessageDialog(null, "A nota de Geografia é " + nota[4]);
         } else {
-            JOptionPane.showMessageDialog(null, "Esscolha um número válido");
+            JOptionPane.showMessageDialog(null, "Escolha um número válido");
         }
 
     }

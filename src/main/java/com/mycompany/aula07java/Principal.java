@@ -19,7 +19,8 @@ public class Principal {
 //        System.out.println(calc.soma(2, 2, 2));
 
           Aluno a = new Aluno();
-          a.cadastrarAluno();
+          //a.cadastrarAluno();
+          a.atividade1();
           
 
 
